@@ -6,8 +6,8 @@ Quiz interactivo y **gratuito** para dar los primeros pasos en el mundo de la in
 
 ![Quiz de Informática](quiz-social-card.png)
 
-> 🔗 **Pruébalo aquí:** https://TU-USUARIO.github.io/quiz-informatica/
-> *(sustituye el enlace por el de tu GitHub Pages una vez publicado)*
+> 🔗 **Pruébalo aquí:** https://jorgeramirezhr.github.io/Quiz-Informatica/
+
 
 ---
 
